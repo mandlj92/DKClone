@@ -1,0 +1,119 @@
+# Project Scope Document: Wally's Racing Adventure
+
+## 1. Game Overview
+"Wally's Racing Adventure" is a 90's inspired arcade-style racing game. Wally and and his friends come together for a fun afternoon of racing. They must defeat an evil character who threatens to ruin their enjoyment. The game draws inspiration from classics like Mario Kart, Diddy Kong Racing, and Crash Team Racing.
+
+## 2. Core Features
+1. Three distinct vehicle types: Karts, Hovercrafts, and Airplanes
+2. Adventure Mode with a traversable hub world
+3. 5 themed worlds with 3-6 races each
+4. 9 playable characters (6 initial, 3 unlockable)
+5. Power-up system with speed boosts, weapons, and traps
+6. Time Trial mode for replayability
+7. Low-poly, cartoonish art style reminiscent of N64/PS1 era
+8. Upbeat, theme-appropriate music for each track
+
+## 3. Target Audience
+- Primary: Young gamers (ages 7-14) with little gaming experience
+- Secondary: Nostalgic players (ages 25-40) who enjoyed similar games in their youth
+- Casual gamers looking for a fun, easy-to-pick-up racing experience
+- Families seeking a multiplayer game suitable for all ages
+
+## 4. Gameplay Elements
+
+### 4.1 Game Modes
+1. Adventure Mode (Single-player)
+   - Players traverse a main hub to access different races
+   - Progress through the story and unlock new areas
+2. Time Trials
+   - Players can test their skills and try to beat their best times on each track
+
+### 4.2 Characters
+- 9 playable characters in total
+  - 6 available from the start
+  - 3 unlockable characters
+- Characters have slightly variable stats, but are mostly balanced
+
+### 4.3 Vehicles
+1. Karts (available from the start)
+2. Hovercrafts (unlocked later)
+3. Airplanes (unlocked later)
+
+### 4.4 Tracks and Environments
+5 themed "worlds" accessible from the main hub, each containing 3-6 races.
+
+Themes include:
+1. Medieval Castles
+2. Space and Futuristic
+3. Christmas/Winter/Holiday
+4. Spooky/Scary/Halloween
+5. Jungle
+
+Additional theme ideas:
+6. Beach and Treasures
+7. City
+8. Volcano/Lava
+9. Ice/Arctic
+10. Candy Land
+
+### 4.5 Power-ups
+Players collect power-ups by colliding with special items on the race track. Types include:
+1. Speed Boost
+2. Weapons
+3. Traps (e.g., oil slicks, spikes)
+
+### 4.6 Progression System
+- Players advance by beating levels in different themed areas
+- Top three finish in a race unlocks the next race
+- New themed areas unlock as players progress
+- Vehicle types (Hovercrafts and Airplanes) unlock as themed areas are completed
+
+## 5. Technical Specifications
+
+### 5.1 Target Platforms
+- PC
+- Xbox
+- Nintendo Switch
+- PlayStation
+
+### 5.2 Technical Requirements
+- Developed using Godot Engine 4.x
+- Target frame rate: 60 FPS on all platforms
+- Resolution: Support for 1080p and 4K
+- Input: Support for keyboard/mouse, gamepad controllers
+- Save system for storing player progress and unlocks
+- Basic physics system for vehicle handling and collisions
+- Particle systems for effects (e.g., exhaust, water splashes)
+- Simple AI for computer-controlled racers
+- User Interface (UI) system for menus, HUD, and power-up display
+
+### 5.3 Art Style
+- Cartoonish with a low-poly look
+- Aiming for a nostalgic PS1 or N64 era graphics style
+
+### 5.4 Sound and Music
+- Fun and upbeat soundtrack
+- Music tailored to fit the theme of each track
+- Sound effects that enhance the arcade-style racing experience
+
+## 6. Project Management
+
+### 6.1 Development Timeline
+- No fixed completion date; development will continue until the game meets quality standards
+
+### 6.2 Team
+- Solo developer project
+
+### 6.3 Budget
+- No set budget; development will use free or low-cost resources where possible
+
+## 7. Future Considerations
+- Potential for additional tracks or expanded worlds post-launch
+- Accessibility features to be considered during development
+- Localization and language support to be evaluated later in development
+
+## 8. Risks and Mitigation Strategies
+1. Scope creep: Regularly review and prioritize features to stay focused on core gameplay
+2. Technical challenges: Allocate time for learning and prototyping complex features
+3. Burnout: Establish a sustainable development pace and take regular breaks
+4. Platform compatibility: Start with one platform and gradually expand to others
