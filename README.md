@@ -11,3 +11,6 @@ Continued working on the Gantt Chart and make sure that it was fully fleshed out
 Worked on a vehicle state machine today, trying to implement various vehicle types such as kart, hovercraft, and airplane.  Having some difficulty with collission layers and ensuring that the "vehicles" don't float through the collission plane that I setup.  Realized that a state machine might be too complicated for me, as well as unneccesary given the lack of complexity in my game.
 
 Played around with some of the code for the player controller.  It's incredibly difficult to control the player in the fashion that I want it.
+
+2024.9.26
+Worked exclusively on my code today.  It's very easy to get lost in the "fun" stuff like putting in code and having it do stuff that makes other stuff do stuff (player movement).  It's iteration upon iteration trying to make it behave like Ive wanted, but I don't mind that.  I've been able to add the "correct" movement so far, or, at least I think so.
